@@ -1,0 +1,38 @@
+<annotation>
+	<folder>ridotte</folder>
+	<filename>mark23.jpg</filename>
+	<path>C:\Users\Giuliano\Desktop\Immagini DAML\ridotte\mark23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>marker</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>945</ymin>
+			<xmax>154</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>marker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>542</xmin>
+			<ymin>694</ymin>
+			<xmax>776</xmax>
+			<ymax>774</ymax>
+		</bndbox>
+	</object>
+</annotation>
